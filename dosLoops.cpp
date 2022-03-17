@@ -33,15 +33,6 @@ int main()
         y[i] = 0;
     }
 
-    // IMPRIMIR
-    /*
-    for(int i=0;i<MAX;i++){
-        for(int j=0;j<MAX;j++){
-            cout << A[i][j] << endl;
-        }
-    }
-    */
-
     // i, j
     auto inicio = std::chrono::high_resolution_clock::now();
     
